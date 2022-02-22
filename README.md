@@ -85,4 +85,12 @@ Important: these are not pre-requisites!  Please don't try to look at all of the
 | 2. Gradient descent + overfitting| [[Stream link]](https://web.microsoftstream.com/video/67fbcff2-d688-443f-bf14-597fb73c1076) | [[notebook 4]](https://github.com/LaurenceA/COMS20011_2021/blob/main/notebooks/part_4_classification.ipynb) |
 | 3. KNN/WNN and nearest centroids| [[Stream link]](https://web.microsoftstream.com/video/5766e6dc-d2da-48f9-90eb-cd123f09897e) | [[notebook 4]](https://github.com/LaurenceA/COMS20011_2021/blob/main/notebooks/part_4_classification.ipynb) |
 | Problem Sheet W16 | | [[notebook]](https://github.com/LaurenceA/COMS20011_2021/blob/main/notebooks/Question_Sheet_2_classification.ipynb) |
+| Problem Sheet Explanation | | [[pdf]](https://github.com/LaurenceA/COMS20011_2021/blob/main/notebooks/Question_Sheet_2_classification_explanation.pdf) |
 
+#### (Week 17): 21/02/2022 (Laurence)
+| Lecture | video | slides |
+| ------ | ---- | --- |
+| 1. Bayesian classification| [[Stream link]](https://web.microsoftstream.com/video/577a17a7-8eff-4d7f-981f-8528a29048fb) | [[notebook 4]](https://github.com/LaurenceA/COMS20011_2021/blob/main/notebooks/part_4_classification.ipynb) |
+| 1. Clustering vs classification| [[Stream link]](https://web.microsoftstream.com/video/451391d5-7b60-45e1-931d-3f06934c2d31) | [[notebook 5]](https://github.com/LaurenceA/COMS20011_2021/blob/main/notebooks/part_5_clustering.ipynb) |
+| 2. K-means clustering| [[Stream link]](https://web.microsoftstream.com/video/9e0a1ca1-81ca-4b8a-b6dc-0e881a8fccc4) | [[notebook 5]](https://github.com/LaurenceA/COMS20011_2021/blob/main/notebooks/part_5_clustering.ipynb) |
+| Problem Sheet W17 | | [[notebook]](https://github.com/LaurenceA/COMS20011_2021/blob/main/notebooks/Question_Sheet_3_clustering.ipynb) |
