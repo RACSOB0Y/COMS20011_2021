@@ -86,6 +86,7 @@ Important: these are not pre-requisites!  Please don't try to look at all of the
 | 3. KNN/WNN and nearest centroids| [[Stream link]](https://web.microsoftstream.com/video/5766e6dc-d2da-48f9-90eb-cd123f09897e) | [[notebook 4]](https://github.com/LaurenceA/COMS20011_2021/blob/main/notebooks/part_4_classification.ipynb) |
 | Problem Sheet W16 | | [[notebook]](https://github.com/LaurenceA/COMS20011_2021/blob/main/notebooks/Question_Sheet_2_classification.ipynb) |
 | Problem Sheet Explanation | | [[pdf]](https://github.com/LaurenceA/COMS20011_2021/blob/main/notebooks/Question_Sheet_2_classification_explanation.pdf) |
+| Q&A Session | [[Stream link]](https://web.microsoftstream.com/video/f49a39cd-b6d2-45b4-9261-f768b998f0d0) ||
 
 #### (Week 17): 21/02/2022 (Laurence)
 | Lecture | video | slides |
