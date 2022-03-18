@@ -92,6 +92,28 @@ Important: these are not pre-requisites!  Please don't try to look at all of the
 | Lecture | video | slides |
 | ------ | ---- | --- |
 | 1. Bayesian classification| [[Stream link]](https://web.microsoftstream.com/video/577a17a7-8eff-4d7f-981f-8528a29048fb) | [[notebook 4]](https://github.com/LaurenceA/COMS20011_2021/blob/main/notebooks/part_4_classification.ipynb) |
-| 1. Clustering vs classification| [[Stream link]](https://web.microsoftstream.com/video/451391d5-7b60-45e1-931d-3f06934c2d31) | [[notebook 5]](https://github.com/LaurenceA/COMS20011_2021/blob/main/notebooks/part_5_clustering.ipynb) |
-| 2. K-means clustering| [[Stream link]](https://web.microsoftstream.com/video/9e0a1ca1-81ca-4b8a-b6dc-0e881a8fccc4) | [[notebook 5]](https://github.com/LaurenceA/COMS20011_2021/blob/main/notebooks/part_5_clustering.ipynb) |
+| 2. Clustering vs classification| [[Stream link]](https://web.microsoftstream.com/video/451391d5-7b60-45e1-931d-3f06934c2d31) | [[notebook 5]](https://github.com/LaurenceA/COMS20011_2021/blob/main/notebooks/part_5_clustering.ipynb) |
+| 3. K-means clustering| [[Stream link]](https://web.microsoftstream.com/video/9e0a1ca1-81ca-4b8a-b6dc-0e881a8fccc4) | [[notebook 5]](https://github.com/LaurenceA/COMS20011_2021/blob/main/notebooks/part_5_clustering.ipynb) |
 | Problem Sheet W17 | | [[notebook]](https://github.com/LaurenceA/COMS20011_2021/blob/main/notebooks/Question_Sheet_3_clustering.ipynb) |
+| Problem Sheet Explanation | | [[pdf]](https://github.com/LaurenceA/COMS20011_2021/blob/main/notebooks/Question_Sheet_3_clustering_explanation.pdf) |
+| Q&A Session | [[Stream link]](https://web.microsoftstream.com/video/162915dd-deb9-4448-91bf-bfe97cbdf668) ||
+
+#### (Week 18): 07/03/2022 (Laurence)
+| Lecture | video | slides |
+| ------ | ---- | --- |
+| 1. EM for Gaussian mixture models| [[Stream link]](https://web.microsoftstream.com/video/0c8216e8-bdd3-4f3e-b713-29021e7ec950) | [[notebook 5]](https://github.com/LaurenceA/COMS20011_2021/blob/main/notebooks/part_5_clustering.ipynb) |
+| 2. Objective for EM [Non-examinable]| [[Stream link]](https://web.microsoftstream.com/video/2816e646-b599-4593-b679-d60bb6d1f47b) | [[notebook 5]](https://github.com/LaurenceA/COMS20011_2021/blob/main/notebooks/part_5_clustering.ipynb) |
+| Problem Sheet W18 | | (No problem sheet this week) |
+| Q&A Session | [[Stream link]](https://web.microsoftstream.com/video/a808ebce-83d1-4638-b855-3a0071f7a5f3) ||
+
+<hr style="border:2px solid gray"> </hr>
+
+#### Week 19: 14/03/2021 (Majid)
+| Lecture | Duration | video | slides |
+| ------ | ---- | --- | --- |
+| MM06. Signals & Frequencies | 13:26 | [[Stream link]](https://web.microsoftstream.com/video/9e00f063-9e6c-40c6-8d20-565623e681f9)| [[pdf]](https://github.com/LaurenceA/COMS20011_2021/tree/main/slides/COMS20011-MM06.pdf)|
+| MM07. Fourier Series | 10:28 | [[Stream link]](https://web.microsoftstream.com/video/1362baeb-f8b6-4de3-96de-fc0610e104b1) | [[pdf]](https://github.com/LaurenceA/COMS20011_2021/tree/main/slides/COMS20011-MM07.pdf) |
+| MM08. 1D Fourier Transform  | 17:18| [[Stream link]](https://web.microsoftstream.com/video/af9611cc-c6b8-4ca0-b757-e197125eb03a) | [[pdf]](https://github.com/LaurenceA/COMS20011_2021/tree/main/slides/COMS20011-MM08.pdf) |
+| Problem Sheet MM02  | - | Self/Group study | [[pdf]](https://github.com/LaurenceA/COMS20011_2021/tree/main/problemsheets/ProblemSheet-MM02.pdf) |
+| Problem Sheet MM02  | - | Answers    | [[pdf]](https://github.com/LaurenceA/COMS20011_2021/tree/main/problemsheets/ProblemSheet-MM02-Solutions.pdf) |
+| Q&A Session  | - | - | - |
